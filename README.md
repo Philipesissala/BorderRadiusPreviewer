@@ -4,25 +4,12 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 
-      26 linhas (16 sloc)
-      </font></font><span class="file-info-divider"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-    981 bytes
+      
   </font></font></div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
-    <div class="BtnGroup">
-      <a href="/Philipesissala/app-ideas/raw/master/Projects/1-Beginner/Border-Radius-Previewer.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item "><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cru</font></font></a>
-        <a href="/Philipesissala/app-ideas/blame/master/Projects/1-Beginner/Border-Radius-Previewer.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item "><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Culpa</font></font></a>
-    </div>
-
-    <div>
-          
-
-          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="/Philipesissala/app-ideas/edit/master/Projects/1-Beginner/Border-Radius-Previewer.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vdvAX7O1Q9LYkH2SvHeuKVmkgmlwsl+1sFC7wCkdHl54yJfWdk5++sScfpxSPZyx/aSU4f6rN5/zrb7VqWtFzQ==">
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit" aria-label="Edite este arquivo" data-hotkey="e" data-disable-with="">
-              <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
-            </button>
+    
 </form>
           <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="/Philipesissala/app-ideas/delete/master/Projects/1-Beginner/Border-Radius-Previewer.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qPPlM7oyLGGGnqNWvzyCUEW/84E2h0u3HSVKJAKca0hkvw0Mlpk7O3RZHBjCYXjYMgQ8g1roF2STGWEfPCC/AQ==">
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit" aria-label="Exclua este arquivo" data-disable-with="">
