@@ -10,7 +10,7 @@ main {
 }
 
 .box {
-    border: 2px solid red;
+    background-image: linear-gradient(to right, rgb(139, 93, 172), rgb(233, 143, 233));
     width: 200px;
     height: 200px;
     margin-bottom: 25px;
@@ -38,8 +38,9 @@ input, button {
 }
 
 .cssGenerator input {
-    width: 200px;
+    width: 250px;
     height: 40px;
+    color: red;
 }
 
 .cssGenerator button {
