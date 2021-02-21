@@ -25,7 +25,19 @@ const App = {
 
         App.inputGenerateCss.value = `border-radius: ${inputUp.trim() == 0 ? 0 : inputUp}px ${inputRight.trim() == 0 ? 0 : inputRight}px ${inputLeft.trim() == 0 ? 0 : inputLeft}px ${inputDown.trim() == 0 ? 0 : inputDown}px;`;
     },
+    clipBoard() {
+        //Get the text Field
+        var copyText = App.inputGenerateCss;
+
+        //Select the text field
+        copyText.select();
+        copyText.setSelectionRange(0, 99999);//For mobile device
+
+        //Copy text inside the text field
+        document.execCommand("copy");
+        console.log("Copiado")
+    }
 }
-App.btnApply.addEventListener("click", () => {
-    App.init()
-});
+
+App.btnApply.addEventListener("click", App.init);
+App.btnCopy.addEventListener("click", App.clipBoard);
